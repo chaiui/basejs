@@ -13,5 +13,5 @@ Basejs is simple JavaScript library to create mobile related JavaScript easier
   * [.width()]("#select_width")
   * [.parent()]("#select_parent")
   * [.children()]("#select_children")
-  * [.after()]["#select_after"]
-  * [.each()]["#select_each"]
+  * [.after()]("#select_after")
+  * [.each()]("#select_each")
